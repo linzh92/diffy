@@ -22,7 +22,7 @@ lazy val testDependencies = Seq(
   "junit" % "junit" % "4.8.1",
   "org.mockito" % "mockito-all" % "1.8.5",
   "org.scalacheck" %% "scalacheck" % "1.12.4",
-  "org.scalatest" %% "scalatest" % "2.2.5"
+  "org.scalatest" %% "scalatest" % "2.2.6"
 )
 
 lazy val finatraVersion = "2.0.0.M2"
