@@ -2,7 +2,7 @@ import ReleaseTransformations._
 
 lazy val buildSettings = Seq(
   organization := "com.twitter",
-  scalaVersion := "2.11.7",
+  scalaVersion := "2.11.12",
   crossScalaVersions := Seq("2.10.5", "2.11.7")
 )
 
