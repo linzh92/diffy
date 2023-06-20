@@ -53,7 +53,7 @@ lazy val baseSettings = Seq(
     "io.netty" % "netty-tcnative-boringssl-static" % "2.0.25.Final",
     "com.twitter" %% "finagle-http" % "6.28.0",
     "com.twitter" %% "finagle-thriftmux" % "6.28.0",
-    "com.twitter" %% "scrooge-generator" % "4.0.0",
+    "com.twitter" %% "scrooge-generator" % "4.20.0",
     "javax.mail" % "mail" % "1.4.7",
     "org.jsoup" % "jsoup" % "1.7.2",
     "org.scala-lang" % "scala-compiler" % scalaVersion.value
